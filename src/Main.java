@@ -148,7 +148,4 @@ public class Main {
         fila2.inicio = dummy.proximo;
         fila1.inicio = null;
     }
-
-
-
 }

@@ -1,4 +1,3 @@
-package Node;
 
 public class Node {
     private Integer informacao;

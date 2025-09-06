@@ -1,5 +1,3 @@
-package questao1;
-import Node.Node;
 import java.util.Scanner;
 
 public class PilhaLista {

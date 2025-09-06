@@ -1,5 +1,3 @@
-package questao3;
-import Node.Node;
 import java.util.Scanner;
 
 public class FilaVetor {

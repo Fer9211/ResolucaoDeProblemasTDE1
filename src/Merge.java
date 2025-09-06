@@ -1,5 +1,3 @@
-package questao3;
-import Node.Node;
 public class Merge {
             int[] filaMerge;
             int tamanho;
